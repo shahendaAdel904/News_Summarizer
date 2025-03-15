@@ -1,0 +1,7 @@
+langchain
+newsapi-python
+chromadb
+transformers
+torch
+sentence-transformers
+huggingface-hub
